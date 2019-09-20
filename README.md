@@ -4,6 +4,7 @@ Broke the last project, ported to a new one and fixed everything :)
 Basic management system using Java and SQLite.
 
 Features:
+
 -Add and remove your account
 
 -Username and password validation (no one letter usernames :))
