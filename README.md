@@ -5,6 +5,9 @@ Basic management system using Java and SQLite.
 
 Features:
 -Add and remove your account
+
 -Username and password validation (no one letter usernames :))
+
 -SHA256 encrypted passwords
+
 -Different user roles, admins have the ability to quickly add/delete bot accounts for testing
