@@ -1,6 +1,7 @@
 VERSION
     0.1.2: thoroughly comment code. COMPLETE
     0.2.0: add in username/password validation. COMPLETE.
+    0.2.0.1: Convert to Gradle project
     0.2.1: major code improvements (PMD)
-    1.0.0: convert to Maven project, additional code improvements
+    1.0.0: implement first program -- Scientific Calculator
     1.1.0: implement mySQL instead of SQLite to use as a server on a raspberry pi
